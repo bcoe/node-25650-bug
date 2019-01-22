@@ -1,0 +1,19 @@
+{
+  "name": "25650-bug",
+  "version": "1.0.0",
+  "description": "nyc and mocha no longer work in conjunction",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha test.js"
+  },
+  "keywords": [
+    "bug",
+    "node"
+  ],
+  "author": "Ben Coe <ben@npmjs.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "nyc": "^13.1.0"
+  }
+}
