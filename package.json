@@ -1,6 +1,6 @@
 {
   "name": "25650-bug",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "nyc and mocha no longer work in conjunction",
   "main": "index.js",
   "scripts": {
