@@ -18,3 +18,4 @@ onExit(function () {
 
 ☝ mocha has its own exit handler, one hunch is perhaps two exit handlers
 being run in conjunction no longer works.
+
